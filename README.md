@@ -65,39 +65,7 @@ npm install
 npm run dev
 ```
 
-The application will be available at `http://localhost:8080`
 
-### Build for Production
+Live Project: https://taskora-indol.vercel.app/
 
-```bash
-npm run build
-```
-
-### Preview Production Build
-
-```bash
-npm run preview
-```
-
-## Available Scripts
-
-- `npm run dev` - Start development server
-- `npm run build` - Build for production
-- `npm run preview` - Preview production build
-- `npm run lint` - Run ESLint
-
-## Tech Stack
-
-- **React 18** - UI library
-- **TypeScript** - Type safety
-- **Vite** - Build tool and dev server
-- **Tailwind CSS** - Styling
-- **shadcn/ui** - UI components
-- **React Router** - Routing
-- **@dnd-kit** - Drag and drop functionality
-- **React Query** - Data fetching and state management
-
-## License
-
-Private project
 
